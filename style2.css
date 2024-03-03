@@ -1,0 +1,199 @@
+
+
+.navbar {
+    background-color: rgb(197, 38, 162);
+    padding: 10px;
+}
+
+body{
+    margin: 0;
+}
+
+a{
+    font-family:'Courier New', Courier, monospace, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-weight: 800;
+}
+
+.float-right{
+    float: right;
+}
+
+.btn{
+    color:white;
+    background-color:blue;
+    font-family: cursive;
+    padding: 3px 10px 3px 10px;
+}
+
+.mt-1px{
+    margin-top:1px;
+}
+
+.row{
+    display:flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.card1{
+    border:1px solid rgb(175, 174, 174);
+    width:25%;
+    padding: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.card1 a{
+    color:black;
+}
+
+.card2{
+    border:1px solid rgb(175, 174, 174);
+    width:25%;
+    padding: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.card2 a{
+    color:black;
+}
+
+.card3{
+    border:1px solid rgb(175, 174, 174);
+    width:25%;
+    padding: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.card3 a{
+    color:black;
+}
+
+.card4{
+    border:1px solid rgb(175, 174, 174);
+    width:25%;
+    padding: 10px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.card4 a{
+    color:black;
+}
+
+.txt-center{
+    text-align: center;
+    color: black;
+    
+}
+
+.image-in-center{
+    height: 100px;
+    width: 100px;
+    display:block;
+    margin: auto;
+}
+
+.text-primary {
+    color:black;
+    font-family: cursive;
+}
+
+.footer{
+    background-color: rgb(215, 212, 218);
+    padding: 10px;
+}
+
+.background-color{
+    color: blueviolet;
+}
+
+.txt-justify{
+    text-align: justify;
+    font-family: cursive;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.h-3-color{
+    color:brown;
+    text-align: center;
+}
+
+h2{
+    color:rgb(13, 175, 224);
+    padding-left: 30px;
+}
+
+.image-in-center-1{
+    height:250px;
+    width: 450px;
+    display:block;
+    margin: auto;
+    padding-top:5px;
+}
+
+.call-1{
+    padding-left: 1%;
+}
+
+.call-2{
+    padding-left: 1%;
+}
+
+.border{
+    border:1px solid grey;
+    margin:10px;
+    width: 800px;
+    padding-bottom: 1%;
+    background-color:rgb(246, 238, 238);
+}
+
+.contain{
+    width: 300px;
+    height: 400px;
+    background-color:rgb(88, 135, 220);
+    text-align: center;
+    color:black;
+    margin-top: 10%;
+    margin-left: 7%;
+}
+
+.back-image{
+    background-image: url("coding-vs-programming-2 image.webp");
+    background-size: 100% 740px;
+    font-family: 'Mulish',sans-serif;
+}
+
+.contain .text{
+    position: relative;
+    top: 7%;
+}
+
+.inp-1{
+    border: none;
+    background-color:rgb(88, 135, 220);
+    border-bottom: 2px solid black;
+    width: 250px;
+    font-size: 18px;
+    margin-top: 30px;
+    outline: none;
+}
+
+.text button{
+    width:250px;
+    height: 40px;
+    background-color: blue;
+    color: black;
+    border-bottom: 1px;
+    font-size: 20px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.text span{
+    color: rgb(120, 18, 86);
+    font-weight: bold;
+    cursor: pointer;
+}
